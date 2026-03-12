@@ -42,8 +42,8 @@
 
 
 ### 📥 ดาวน์โหลด (Download)
-1. **[แบบพกพา (Portable Zip)](ใส่ลิงก์ดาวน์โหลดจากRelease)** - แนะนำ! เปิดโปรแกรมได้รวดเร็ว (ต้องแตกไฟล์ Zip ก่อนใช้งาน)
-2. **[แบบตัวติดตั้ง (Setup Installer)](ใส่ลิงก์ดาวน์โหลดจากRelease)** - ติดตั้งลงเครื่องพร้อมสร้างไอคอนหน้า Desktop
+1. **[แบบพกพา (Portable Zip)](https://github.com/Kittisak-vich/Napa-AI-Translate/releases/download/v1/NapaAI_Translate_Kit_Portable.7z)** - แนะนำ! เปิดโปรแกรมได้รวดเร็ว (ต้องแตกไฟล์ Zip ก่อนใช้งาน)
+2. **[แบบตัวติดตั้ง (Setup Installer)](https://github.com/Kittisak-vich/Napa-AI-Translate/releases/download/v1/NapaAI_Translate_Kit_Setup_V1.exe)** - ติดตั้งลงเครื่องพร้อมสร้างไอคอนหน้า Desktop
 
 ---
 
@@ -58,8 +58,8 @@
 * **User-Friendly UI:** Modern Dark Mode interface with full right-click support for productivity.
 
 ### 📥 How to Download
-1. **[Portable Zip (Fast Launch)](Your_Release_Link)** - Recommended for performance. (Extract before use)
-2. **[Official Setup](Your_Release_Link)** - Standard installation with a desktop shortcut.
+1. **[Portable Zip (Fast Launch)](https://github.com/Kittisak-vich/Napa-AI-Translate/releases/download/v1/NapaAI_Translate_Kit_Portable.7z)** - Recommended for performance. (Extract before use)
+2. **[Official Setup](https://github.com/Kittisak-vich/Napa-AI-Translate/releases/download/v1/NapaAI_Translate_Kit_Setup_V1.exe)** - Standard installation with a desktop shortcut.
 
 ---
 
