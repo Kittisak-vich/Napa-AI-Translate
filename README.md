@@ -11,14 +11,35 @@
 
 ### 🌟 คุณสมบัติเด่น (Features)
 * **Dual Engine:** เลือกใช้ได้ทั้ง **Online (Google)** เพื่อความสละสลวย หรือ **Offline (Argos)** เพื่อความปลอดภัยของข้อมูล
-* **Manual Mode:** แปลทีละคำหรือประโยค พร้อมระบบเมนูคลิกขวา (Cut/Copy/Paste) ที่สมบูรณ์แบบ
+* **Manual Mode:** แปลทีละคำหรือประโยค พร้อมระบบเมนูคลิกขวา (Cut/Copy/Paste) 
 * **File Mode:** รองรับการโหลดไฟล์ `.txt` เพื่อแปลทั้งชุดข้อมูล โดยสามารถกำหนดตัวคั่น (Delimiter) ได้เอง
 * **Napa Memory:** ระบบจดจำการแปลส่วนตัว บันทึกลงฐานข้อมูล JSON เพื่อเรียกใช้ซ้ำได้ทันที
 * **Portable (Fast Launch):** ตัวโปรแกรมออกแบบมาให้เปิดทำงานได้รวดเร็วผ่านระบบ Directory Mode
 
 ### 📸 ตัวอย่างการใช้งาน (Usage Preview)
-> **[แปะรูปภาพหน้าจอโปรแกรมตอนแปลไฟล์ที่นี่]**
-> ![Program Translation Preview](https://via.placeholder.com/800x450.png?text=Napa+AI+Translate+Preview)
+แบบพกพา
+   ไฟล์รัน NapaAItranslate_Kit.exe
+> **<img width="605" height="584" alt="ไฟล์รันแบบไม่ต้องติดตั้ง1" src="https://github.com/user-attachments/assets/bd0c7015-8eae-46af-9046-1ab017a3c015" />**
+
+   หน้าโปรแกรม
+>**<img width="1402" height="932" alt="หน้าโปรแกรม " src="https://github.com/user-attachments/assets/ba399fdf-93da-4435-9aed-e9b1e3b220a9" />**
+
+  หน้าการเลือกชุดแปลภาษา ต้นทาง to ปลายทาง
+>**<img width="1610" height="1080" alt="หน้าการเลือกชุดแปลภาษา ต้นทาง to ปลายทาง" src="https://github.com/user-attachments/assets/7b0f3782-3416-4870-b51c-697d96cdf52a" />**
+
+  หน้า โหมดพิมพ์ (Manual)แปลอังกฤษเป็นไทย
+>**<img width="1402" height="932" alt="หน้า โหมดพิมพ์ (Manual)แปลอังกฤษเป็นไทย" src="https://github.com/user-attachments/assets/3d117ae9-2d6f-4fca-af6e-14e69b815393" />**
+
+  หน้า โหมดพิมพ์ (Manual) แปลไทยเป็นอังกฤษ
+>**<img width="1402" height="932" alt="หน้า โหมดพิมพ์ (Manual) แปลไทยเป็นอังกฤษ" src="https://github.com/user-attachments/assets/a5990b41-18b5-4fa3-9fe5-66dcdc2fa7ff" />**
+
+  หน้าโหมดจัดการไฟล์ (File Mode) แปลไฟล์แบบไฟล์
+>**<img width="1402" height="932" alt="หน้าโหมดจัดการไฟล์ (File Mode) แปลไฟล์แบบไฟล์" src="https://github.com/user-attachments/assets/a3747e62-faeb-434a-9333-c37927c3b8d5" />**
+
+แบบติดตั้งโปรแกรม 
+>**<img width="598" height="464" alt="ภาพหน้าติดตังโปรแกรม" src="https://github.com/user-attachments/assets/640f6790-188d-4a71-b19a-087d9f390640" />**
+
+
 
 ### 📥 ดาวน์โหลด (Download)
 1. **[แบบพกพา (Portable Zip)](ใส่ลิงก์ดาวน์โหลดจากRelease)** - แนะนำ! เปิดโปรแกรมได้รวดเร็ว (ต้องแตกไฟล์ Zip ก่อนใช้งาน)
